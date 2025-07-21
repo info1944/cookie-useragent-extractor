@@ -22,7 +22,7 @@
 
 ## 📷 Screenshot
 
-![Tampilan Ekstensi](https://i.ibb.co/4w8fjzcY/Screenshot-109.png)
+![Tampilan Ekstensi](https://i.ibb.co/XrZtYWbv/Screenshot-109.png)
 
 
 ## 📦 Instalasi Manual
