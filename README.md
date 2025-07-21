@@ -40,5 +40,5 @@ Dibuat oleh **Adhi_Mahadi** / [Info1944](https://github.com/info1944)
 ## 💖 Dukung Saya
 
 Kalau kamu suka ekstensi ini, traktir kopi di [Saweria](https://saweria.co/info1944) yaa ☕  
-![QR Saweria](https://saweria.co/qr/info1944)  
+![[https://saweria.co/widgets/qr?streamKey=c1cc226770f9df315f32b5dc39969608](https://saweria.co/qr/info1944)  
 
