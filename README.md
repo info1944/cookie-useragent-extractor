@@ -35,3 +35,10 @@
 
 MIT License © 2025  
 Dibuat oleh **Adhi_Mahadi** / [Info1944](https://github.com/info1944)
+
+
+## 💖 Dukung Saya
+
+Kalau kamu suka ekstensi ini, traktir kopi di [Saweria](https://saweria.co/info1944) yaa ☕  
+![QR Saweria](https://saweria.co/qr/info1944)  
+
